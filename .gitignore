@@ -1,0 +1,8 @@
+# 虚拟环境
+venv/
+ENV/
+.env
+.env.local
+.env.development
+.env.production
+settings.py
