@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-from config.settings import ANALYSIS_CONFIG
+from confi.settings import ANALYSIS_CONFIG
 
 class Analyzer:
     """

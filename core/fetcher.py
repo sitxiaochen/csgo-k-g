@@ -1,5 +1,5 @@
 import requests
-from config.settings import API_BASE_URL, API_KEY
+from confi.settings import API_BASE_URL, API_KEY
 
 def fetch_skin_data(skin_url: str) -> dict:
     """
